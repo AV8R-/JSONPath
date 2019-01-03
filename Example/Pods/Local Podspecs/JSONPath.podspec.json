@@ -1,0 +1,22 @@
+{
+  "name": "JSONPath",
+  "version": "0.1.0",
+  "summary": "A short description of JSONPath.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bogdan Manshilin/JSONPath",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bogdan Manshilin": "manshilin@yandex-team.ru"
+  },
+  "source": {
+    "git": "https://github.com/Bogdan Manshilin/JSONPath.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JSONPath/Classes/**/*"
+}
