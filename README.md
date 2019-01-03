@@ -1,6 +1,6 @@
 # JSONPath
 
-[![CI Status](https://img.shields.io/travis/Bogdan Manshilin/JSONPath.svg?style=flat)](https://travis-ci.org/Bogdan Manshilin/JSONPath)
+[![CI Status](https://img.shields.io/travis/Bogdan\ Manshilin/JSONPath.svg?style=flat)](https://travis-ci.org/Bogdan\ Manshilin/JSONPath)
 [![Version](https://img.shields.io/cocoapods/v/JSONPath.svg?style=flat)](https://cocoapods.org/pods/JSONPath)
 [![License](https://img.shields.io/cocoapods/l/JSONPath.svg?style=flat)](https://cocoapods.org/pods/JSONPath)
 [![Platform](https://img.shields.io/cocoapods/p/JSONPath.svg?style=flat)](https://cocoapods.org/pods/JSONPath)
