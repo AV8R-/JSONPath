@@ -19,7 +19,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		641B944DF5C71BAF1B7909F1 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6934D353F1658B301F10E4F6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		D67F56315A37399CFF181D17 /* JSONPath.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JSONPath.podspec; path = ../JSONPath.podspec; sourceTree = "<group>"; };
+		D67F56315A37399CFF181D17 /* JSONPath.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JSONPath.podspec; path = ../JSONPath.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DE1475746B11231C4F1E272E /* Pods-JSONPath_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JSONPath_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JSONPath_Tests/Pods-JSONPath_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,6 +132,7 @@
 				TargetAttributes = {
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = A66DRR7WG4;
 						LastSwiftMigration = 1010;
 					};
 				};
@@ -330,6 +331,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DE1475746B11231C4F1E272E /* Pods-JSONPath_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A66DRR7WG4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -350,6 +352,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0AF9AE270217FDD028CCC6D0 /* Pods-JSONPath_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A66DRR7WG4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
