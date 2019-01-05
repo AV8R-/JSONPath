@@ -20,7 +20,10 @@ JSONPath is JSON parsing libriry that relies on cutting edge technologies of Swi
   s.author           = { 'Bogdan Manshilin' => 'manshilin@yandex-team.ru' }
   s.source           = { :git => 'https://github.com/AV8R-/JSONPath.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = ''
+  s.osx.deployment_target = ''
+  s.watchos.deployment_target = ''
+  s.tvos.deployment_target = ''
   s.swift_version = '4.2'
 
   s.source_files = 'JSONPath/Classes/**/*'
